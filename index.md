@@ -4,6 +4,7 @@
       <h1>Hao Lu (鲁昊)</h1>
       <p><b>Master</b></p>
       <p><b>hao.lu@miracle.ict.ac.cn</b></p>
+      <p><b>http://miracle.ict.ac.cn/</b></p>
     </td>
     <td width="25%">
       <img src="/haolu.jpg" width="100%">      % 插入证件照代码
@@ -16,9 +17,9 @@
 <table class="imgtable"><tr><td>
 <img src="images/CAS.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
-<p> <strong>University of Chinese Academy of Sciences (UCAS)</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; Sep. 2017 - Now <br />
+<p> <strong>University of Chinese Academy of Sciences (UCAS)</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; Sep. 2019 - Now <br />
 Ph.D. in Pattern Recognition and Intelligent Systems <br />
-Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu Han</a> and <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu Han</a><br />
+Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu Han</a> and <a href="http://people.ucas.edu.cn/~skevinzhou">S. Kevin Zhou</a><br />
 </p>
 </td></tr></table>
 <br />
@@ -26,9 +27,8 @@ Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu
 <table class="imgtable"><tr><td>
 <img src="images/AHU.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
-<p> <strong>Anhui University (AHU)</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug. 2013 - Jun. 2017 <br />
-B.Eng. in Automation, Ranking: 1/134, GPA: 3.86/4.0 <br />
-Advisors: <a href="http://www.scholat.com/heshuping.cn">Prof. Shuping He</a>, Prof. Jingjing Zhang, and Prof. Qing Yan <br />
+<p> <strong>ShanDong JianZhu University (AHU)</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug. 2015 - Jun. 2019 <br />
+B.Eng. in EE, GPA: 3.86/4.0 <br />
 </p>
 </td></tr></table>
 
