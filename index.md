@@ -18,7 +18,7 @@
 <td align="left">
 <p> <strong>University of Chinese Academy of Sciences (UCAS)</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; Sep. 2017 - Now <br />
 Ph.D. in Pattern Recognition and Intelligent Systems <br />
-Advisor: <a href="http://people.ucas.ac.cn/~heran">Prof. Ran He</a> <br />
+Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu Han</a> and <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu Han</a><br />
 </p>
 </td></tr></table>
 <br />
