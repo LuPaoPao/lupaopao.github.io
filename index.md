@@ -7,7 +7,7 @@
       <p><b>Team: http://miracle.ict.ac.cn/</b></p>
     </td>
     <td width="25%">
-      <img src="/haolu.jpg" width="100%">      
+      <img src="img/haolu.jpg" width="100%">      
     </td>
   </tr>
 </table>
@@ -23,7 +23,7 @@ A paper was accepted by CVPR 2020 workshop.
 <h2>Education</h2>
 
 <table class="imgtable"><tr><td>
-<img src="images/CAS.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
+<img src="img/CAS.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
 <p> <strong>University of Chinese Academy of Sciences (UCAS)</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; Sep. 2019 - Now <br />
 Master in EE, GPA: 3.71/4.0 <br />
@@ -33,7 +33,7 @@ Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu
 <br />
 
 <table class="imgtable"><tr><td>
-<img src="images/AHU.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
+<img src="img/SDJZ.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
 <p> <strong>ShanDong JianZhu University </strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug. 2015 - Jun. 2019 <br />
 Bachelor in EE, GPA: 3.66/4.0 <br />
