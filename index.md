@@ -2,8 +2,8 @@
   <tr>
     <td width="75%">
       <h1>Hao Lu (鲁昊)</h1>
-      <p><b>Master</b></p>
-      <p><b>hao.lu@miracle.ict.ac.cn</b></p>
+      <p><b>Degree: Master</b></p>
+      <p><b>Mail: hao.lu@miracle.ict.ac.cn</b></p>
       <p><b>http://miracle.ict.ac.cn/</b></p>
     </td>
     <td width="25%">
@@ -27,7 +27,7 @@ Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu
 <table class="imgtable"><tr><td>
 <img src="images/AHU.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
-<p> <strong>ShanDong JianZhu University </strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug. 2015 - Jun. 2019 <br />
+<p> <strong>ShanDong JianZhu University </strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug. 2015 - Jun. 2019 <br />
 Bachelor in EE, GPA: 3.66/4.0 <br />
 </p>
 </td></tr></table>
