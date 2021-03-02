@@ -1,12 +1,13 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>Hao Lu (鲁昊)</h1>
       <p><b>Degree: Master</b></p>
       <p><b>Mail: hao.lu@miracle.ict.ac.cn</b></p>
+      <p><b>GitHub: https://github.com/LuPaoPao</b></p>
       <p><b>Team: http://miracle.ict.ac.cn/</b></p>
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="img/haolu.jpg" width="100%">      
     </td>
   </tr>
