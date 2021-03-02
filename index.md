@@ -23,7 +23,7 @@ A paper was accepted by CVPR 2020 workshop.
 <h2>Education</h2>
 
 <table class="imgtable"><tr><td>
-<img src="img/CAS.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
+<img src="img/CAS.jpg" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
 <p> <strong>University of Chinese Academy of Sciences (UCAS)</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; Sep. 2019 - Now <br />
 Master in EE, GPA: 3.71/4.0 <br />
