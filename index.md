@@ -13,7 +13,9 @@
 </table>
 # News
 A paper was accepted by CVPR 2021.
+
 A paper was accepted by VRIH.
+
 A paper was accepted by CVPR 2020 workshop.
 # EDUCATION
 <h2>Education</h2>
