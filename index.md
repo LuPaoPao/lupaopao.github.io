@@ -4,10 +4,10 @@
       <h1>Hao Lu (鲁昊)</h1>
       <p><b>Degree: Master</b></p>
       <p><b>Mail: hao.lu@miracle.ict.ac.cn</b></p>
-      <p><b>http://miracle.ict.ac.cn/</b></p>
+      <p><b>Team: http://miracle.ict.ac.cn/</b></p>
     </td>
     <td width="25%">
-      <img src="/haolu.jpg" width="100%">      % 插入证件照代码
+      <img src="/haolu.jpg" width="100%">      
     </td>
   </tr>
 </table>
