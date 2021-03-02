@@ -26,7 +26,6 @@ Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu
 </p>
 </td></tr></table>
 <br />
-
 <table class="imgtable"><tr><td>
 <img src="images/AHU.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
@@ -34,7 +33,6 @@ Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu
 Bachelor in EE, GPA: 3.66/4.0 <br />
 </p>
 </td></tr></table>
-
 # PUBLICATIONS
 Hao Lu, Hu Han. Dual-GAN: Joint BVP and Noise modelling for Remote Physiological Measurement. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021.
 
