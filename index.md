@@ -11,7 +11,10 @@
     </td>
   </tr>
 </table>
-
+# News
+A paper was accepted by CVPR 2021.
+A paper was accepted by VRIH.
+A paper was accepted by CVPR 2020 workshop.
 # EDUCATION
 <h2>Education</h2>
 <table class="imgtable"><tr><td>
@@ -33,5 +36,10 @@ Bachelor in EE, GPA: 3.66/4.0 <br />
 </td></tr></table>
 
 # PUBLICATIONS
-Hao LU, Hu HAN. NAS-HR: Neural architecture search for heart rate estima-tion from face videos. Virtual Reality & Intelligent Hardware, 2021, 3(1): 33-42 DOI:10.1016/j.vrih.2020.10.002
-# News
+Hao Lu, Hu Han. Dual-GAN: Joint BVP and Noise modelling for Remote Physiological Measurement. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021.
+
+Hao Lu, Hu Han. NAS-HR: Neural architecture search for heart rate estima-tion from face videos. Virtual Reality & Intelligent Hardware, 2021, 3(1): 33-42 DOI:10.1016/j.vrih.2020.10.002
+
+XiaoBai Li, Hu Han, Hao Lu, et al. The 1st Challenge on Remote Physiological Signal Sensing (RePSS). Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020: 314-315.
+
+
