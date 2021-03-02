@@ -12,13 +12,16 @@
   </tr>
 </table>
 # News
+
 A paper was accepted by CVPR 2021.
 
 A paper was accepted by VRIH.
 
 A paper was accepted by CVPR 2020 workshop.
+
 # EDUCATION
 <h2>Education</h2>
+
 <table class="imgtable"><tr><td>
 <img src="images/CAS.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
@@ -28,6 +31,7 @@ Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu
 </p>
 </td></tr></table>
 <br />
+
 <table class="imgtable"><tr><td>
 <img src="images/AHU.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
@@ -35,7 +39,9 @@ Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu
 Bachelor in EE, GPA: 3.66/4.0 <br />
 </p>
 </td></tr></table>
+
 # PUBLICATIONS
+
 Hao Lu, Hu Han. Dual-GAN: Joint BVP and Noise modelling for Remote Physiological Measurement. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021.
 
 Hao Lu, Hu Han. NAS-HR: Neural architecture search for heart rate estima-tion from face videos. Virtual Reality & Intelligent Hardware, 2021, 3(1): 33-42 DOI:10.1016/j.vrih.2020.10.002
