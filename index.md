@@ -33,5 +33,5 @@ Bachelor in EE, GPA: 3.66/4.0 <br />
 </td></tr></table>
 
 # PUBLICATIONS
-
+Hao LU, Hu HAN. NAS-HR: Neural architecture search for heart rate estima-tion from face videos. Virtual Reality & Intelligent Hardware, 2021, 3(1): 33-42 DOI:10.1016/j.vrih.2020.10.002
 # News
