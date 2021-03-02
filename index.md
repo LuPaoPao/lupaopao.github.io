@@ -18,7 +18,7 @@
 <img src="images/CAS.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
 <p> <strong>University of Chinese Academy of Sciences (UCAS)</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; Sep. 2019 - Now <br />
-Ph.D. in Pattern Recognition and Intelligent Systems <br />
+Master in EE, GPA: 3.71/4.0 <br />
 Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu Han</a> and <a href="http://people.ucas.edu.cn/~skevinzhou">S. Kevin Zhou</a><br />
 </p>
 </td></tr></table>
@@ -27,8 +27,8 @@ Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu
 <table class="imgtable"><tr><td>
 <img src="images/AHU.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
 <td align="left">
-<p> <strong>ShanDong JianZhu University (AHU)</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug. 2015 - Jun. 2019 <br />
-B.Eng. in EE, GPA: 3.86/4.0 <br />
+<p> <strong>ShanDong JianZhu University </strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug. 2015 - Jun. 2019 <br />
+Bachelor in EE, GPA: 3.66/4.0 <br />
 </p>
 </td></tr></table>
 
