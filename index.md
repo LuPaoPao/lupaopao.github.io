@@ -6,7 +6,7 @@
       <p><b>hao.lu@miracle.ict.ac.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/haolu.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
