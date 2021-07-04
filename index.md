@@ -1,11 +1,9 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <h1>Hao Lu (鲁昊)</h1>
-      <p><b>Degree: Master</b></p>
+      <h1>Hao Lu (鲁昊)</h1>   
+      <p><b><a href="https://github.com/LuPaoPao">GitHub</a> <a href="http://miracle.ict.ac.cn/">Miracle</a></b></p>
       <p><b>Mail: hao.lu@miracle.ict.ac.cn</b></p>
-      <p><b><a href="https://github.com/LuPaoPao">Prof. GitHub</a></b></p>
-      <p><b><a href="http://miracle.ict.ac.cn/">Prof. Miracle</a></b></p>
     </td>
     <td width="50%">
       <img src="img/haolu.jpg" width="100%">      
