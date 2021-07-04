@@ -2,7 +2,7 @@
   <tr>
     <td width="50%">
       <h1>Hao Lu (鲁昊)</h1>   
-      <p><b><a href="https://github.com/LuPaoPao">GitHub</a> <a href="http://miracle.ict.ac.cn/">Miracle</a></b></p>
+      <p><b><a href="https://scholar.google.com/citations?hl=zh-CN&user=OrbGCGkAAAAJ">Google Scholar</a>;<a href="https://github.com/LuPaoPao">GitHub</a>;<a href="http://miracle.ict.ac.cn/">Miracle</a>;</b></p>
       <p><b>Mail: hao.lu@miracle.ict.ac.cn</b></p>
     </td>
     <td width="50%">
