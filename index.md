@@ -1,50 +1,647 @@
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h1>Hao Lu (鲁昊)</h1>   
-      <p><b><a href="https://scholar.google.com/citations?hl=zh-CN&user=OrbGCGkAAAAJ">Google Scholar</a>;<a href="https://github.com/LuPaoPao">GitHub</a>;<a href="http://miracle.ict.ac.cn/">Miracle</a>;</b></p>
-      <p><b>Mail: hao.lu@miracle.ict.ac.cn</b></p>
-    </td>
-    <td width="50%">
-      <img src="img/haolu.jpg" width="100%">      
-    </td>
-  </tr>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=800">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
+    <style type="text/css">
+    /* Color scheme stolen from Sergey Karayev */
+    a {
+    color: #1772d0;
+    text-decoration:none;
+    }
+    a:focus, a:hover {
+    color: #f09228;
+    text-decoration:none;
+    }
+    body,td,th,tr,p,a {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px
+    }
+    .hp-photo{ width:240px; height:240px; border-radius:240px; -webkit-border-radius:240px; -moz-border-radius:240px; }
+    strong {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    }
+    heading {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 24px;
+    }
+    papertitle {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 700
+    }
+    name {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 32px;
+    }
+    .one
+    {
+    width: 160px;
+    height: 160px;
+    position: relative;
+    }
+    .two
+    {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
+    }
+    .fade {
+     transition: opacity .2s ease-in-out;
+     -moz-transition: opacity .2s ease-in-out;
+     -webkit-transition: opacity .2s ease-in-out;
+    }
+    span.highlight {
+        background-color: #ffffd0;
+    }
+    </style>
+
+    <title>Bo Yang | The Hong Kong Polytechnic University</title>
+    <!--<link rel="stylesheet" type="text/css" href="/imgs/css" >-->
+    <link rel="icon" type="image/jpg" href="./imgs/polyu_icon.png">
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+
+
+    <!--SECTION 1 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+            <tbody><tr>
+              <td width="68%" valign="middle">
+                <p align="center"><name>Bo Yang</name></p>
+                  <p align="justify">I am an Assistant Professor (2020.11-) in the <a href="https://www.comp.polyu.edu.hk/">Department of Computing</a>
+                    at <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>. I completed my D.Phil degree (2016.10-2020.09)
+                    in the <a href="http://www.cs.ox.ac.uk/">Department of Computer Science</a>
+                    at <a href="http://www.ox.ac.uk/">University of Oxford</a>,
+                    supervised by Profs. <a href="https://www.cs.ox.ac.uk/people/niki.trigoni/">Niki Trigoni</a>
+                    and <a href="https://www.cs.ox.ac.uk/people/andrew.markham/">Andrew Markham</a>.
+                    Prior to Oxford, I obtained an M.Phil degree from <a href="https://www.hku.hk/">The University of Hong Kong</a>
+                    where I was supervised by <a href="https://www.imse.hku.hk/people/s-h-choi">Prof. S.H. Choi</a>,
+                    and a B.Eng degree from <a href="https://english.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>.
+
+                    </br></br>
+                    In my D.Phil study, I interned at the Augumented Reality team of <a href="http://www.a9.com/">Amazon</a> (Palo Alto, CA).
+                    In my M.Phil study, I interned at <a href="https://www.astri.org/">Hong Kong Applied Science and Technology Research Institute</a>.
+                    In my undergraduate study, I was an exchange student at <a href="http://www.upv.es/">Universitat Politècnica de València</a> (Valencia, Spain).
+
+	            </br>
+                </p><p align="center">
+                    <a href="mailto:bo.yang[-at-]polyu.edu.hk">Email (Only PolyU Email)</a> /
+                    <a href="https://scholar.google.com/citations?hl=en&user=VqUAqz8AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> &nbsp;/&nbsp;
+                    <a href="https://github.com/Yang7879"> Github </a>
+                </p>
+              </td>
+			  <td align="right"> <img class="hp-photo" src="./imgs/photo.jpg" style="width: 240;"></td></tr>
+            </tbody>
+          </table>
+
+    <!--SECTION 2 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+       <tbody><tr>
+          <td>
+          <heading>Research</heading>
+              <p align="justify">I lead the <a href="https://vlar-group.github.io/"> Visual Learning and Reasoning (vLAR) Group</a>,
+               focusing on the fundamental research problems in machine learning, computer vision, and robotics.
+               Our research goal is to build intelligent systems which endow machines to recover, understand, and eventually interact with the real 3D world.
+               This includes accurate and efficient recognition, segmentation and reconstruction of all individual objects within large-scale 3D scenes.
+		   </p></br>
+		   <font color="red"><strong>Openings:</strong> </font></br></br>
+
+            <font color="red">Several fully funded PhD positions and Research Assistantships are available now. Welcome to drop me an email with your CV and transcripts.
+                <p>
+                (All emails/CVs are carefully read and evaluated. Only matched candidates will be responded.) </font>
+		   </td></tr>
+       </tbody>
+    </table>
+
+    <!--SECTION 3 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+       <tbody><tr>
+          <td><heading>News</heading>
+            <p style="font-size:13px"> <strong>[2021.04.13]</strong> Invited talk about <a href="https://www.bilibili.com/video/BV1164y1v7zK?p=5">Beyond Supervised Learning for 3D Representations</a> at a CSIG workshop.</p>
+
+            <p style="font-size:13px"> <strong>[2021.04.12]</strong>  Our paper SQN is on <a href="https://arxiv.org/abs/2104.04891">arXiv</a>.</p>
+
+            <p style="font-size:13px"> <strong>[2021.04.09]</strong>  We are going to organize <a href="http://point-cloud-analysis.cs.ox.ac.uk/">The 1st Challenge on Point Cloud Understanding</a> at ICCV'21.</p>
+
+            <p style="font-size:13px"> <strong>[2021.03.01]</strong>  Our papers <a href="https://arxiv.org/abs/2009.03137">SensatUrban</a> and <a href="https://arxiv.org/abs/2011.12149">SpinNet</a> are accepted by CVPR 2021.</p>
+
+            <p style="font-size:13px"> <strong>[2021.02.28]</strong>  Our paper RadarLoc is accepted by ICRA 2021.</p>
+
+            <p style="font-size:13px"> <strong>[2020.10.12]</strong>  Our paper GRF is on <a href="http://arxiv.org/abs/2010.04595">arXiv</a>.</p>
+
+            <!--<p style="font-size:13px"> <strong>[2020.09.10]</strong> Pass my D.Phil thesis,
+                examined by Profs. <a href="https://mpawankumar.info/">M. Pawan Kumar </a> and <a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison</a>.</p>-->
+
+            <p style="font-size:13px"> <strong>[2020.03.08]</strong> Invited to present our <a href="https://arxiv.org/abs/1911.11236">RandLA-Net</a>
+                and <a href="https://arxiv.org/abs/1906.01140">3D-BoNet</a> at Shenlan.
+                Here are the <a href="https://www.shenlanxueyuan.com/open/course/53">Video</a>
+                and <a href="https://www.dropbox.com/s/80w91bqzfdl5vow/%E6%B7%B1%E8%93%9D%E5%AD%A6%E9%99%A2%E5%85%AC%E5%BC%80%E8%AF%BE_20200308.pdf?dl=0">Slides</a>. </p>
+            <p style="font-size:13px"> <strong>[2020.02.27]</strong> One co-authored <a href="https://arxiv.org/abs/1911.11236">paper</a> for 3D semantic segmentation is accepted by <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a>. </p>
+
+              <!--<p style="font-size:13px"> <strong>[2019.10.24]</strong> Pass my
+                <a href="https://www.ox.ac.uk/students/academic/guidance/graduate/research/status/DPhil?wssl=1">D.Phil confirmation</a>, examined by Profs.
+                <a href="https://scholar.google.co.uk/citations?user=UZ5wscMAAAAJ&hl=en">Andrew Zisserman</a> and
+                <a href="https://www.cs.ox.ac.uk/people/alessandro.abate/home.html">Alessandro Abate</a>.</p>-->
+
+            <p style="font-size:13px"> <strong>[2019.09.03]</strong> One first-authored paper is accepted as a spotlight at <a href="https://nips.cc/Conferences/2019">NeurIPS 2019</a>. </p>
+            <p style="font-size:13px"> <strong>[2019.08.16]</strong> One first-authored paper is accepted in <a href="https://link.springer.com/journal/11263">IJCV</a>. </p>
+          </td>
+       </tr></tbody>
+    </table>
+
+    <!--SECTION 4 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+        <tbody><tr>
+          <td><heading>Publications / Preprints</heading>
+          </td>
+          </tr></tbody>
+    </table>
+
+    <!--SECTION 5 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+		<tbody><tr>
+
+        <td width="20%"><img src="./imgs/21_arXiv_sqn.gif" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+                 <p><a href="https://arxiv.org/abs/2104.04891">
+                 <papertitle>SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds with 1000x Fewer Labels</papertitle></a>
+                 <br>Q. Hu, <strong>B. Yang*</strong>, G. Fang, Y. Guo, A. Leonardis, N. Trigoni, A. Markham<br>
+                 <em>arXiv</em>, 2021
+                 <br>
+                 <a href="https://arxiv.org/abs/2104.04891">arXiv</a> /
+                 <a href="https://github.com/QingyongHu/SQN"><font color="red">Code</font></a>
+                 <iframe src="https://ghbtns.com/github-btn.html?user=QingyongHu&repo=SQN&type=star&count=true&size=small" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                 <br>(* indicates corresponding author)
+                 <p align="justify" style="font-size:13px">We introduce a simple weakly-supervised neural network to learn precise 3D semantics for large-scale point clouds.
+                 </p>
+                <p></p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/21_cvpr_spinnet.png" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+                 <p><a href="https://arxiv.org/abs/2011.12149">
+                 <papertitle>SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration</papertitle></a>
+                 <br>S. Ao*, Q. Hu*, <strong>B. Yang</strong>, A. Markham, Y. Guo<br>
+                 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2021
+                 <br>
+                 <a href="https://arxiv.org/abs/2011.12149">arXiv</a> /
+                 <a href="https://github.com/QingyongHu/SpinNet"><font color="red">Code</font></a>
+                 <iframe src="https://ghbtns.com/github-btn.html?user=QingyongHu&repo=SpinNet&type=star&count=true&size=small" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                 <br>(* indicates equal contributions)
+                 <p align="justify" style="font-size:13px">We introduce a simple and general neural network to register pieces of 3D point clouds.
+                 </p>
+                <p></p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/21_cvpr_sensaturban.gif" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+                 <p><a href="http://arxiv.org/abs/2009.03137">
+                 <papertitle>Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges</papertitle></a>
+                 <br>Q. Hu, <strong>B. Yang*</strong>, S. Khalid, W. Xiao, N. Trigoni, A. Markham<br>
+                 <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2021
+                 <br>
+                  <!--<font color="red"><strong>..</strong></font><br>-->
+                 <a href="http://arxiv.org/abs/2009.03137">arXiv</a> /
+                 <a href="https://www.youtube.com/watch?v=IG0tTdqB3L8">Demo</a> /
+                 <a href="https://github.com/QingyongHu/SensatUrban"><font color="red">Project page</font></a>
+                 <iframe src="https://ghbtns.com/github-btn.html?user=QingyongHu&repo=SensatUrban&type=star&count=true&size=small" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                <br>(* indicates corresponding author)
+                <p align="justify" style="font-size:13px">We introduce an urban-scale photogrammetric point cloud dataset
+                            and extensively evaluate and analyze the state-of-the-art algorithms on the dataset.
+                  </p>
+                <p></p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/21_icra_radarloc.png" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+                 <p><a href="#">
+                 <papertitle>RadarLoc: Learning to Relocalize in FMCW Radar</papertitle></a>
+                 <br>W. Wang, P.P.B. de Gusmao, <strong>B. Yang</strong>, A. Markham, N. Trigoni<br>
+                 <em>IEEE International Conference on Robotics and Automation (ICRA) </em>, 2021
+                 <br>
+                 <a href="#">arXiv</a>
+                 <p align="justify" style="font-size:13px">We introduce a simple end-to-end neural network with self-attention to estimate global poses from FMCW radar scans.
+                 </p>
+                <p></p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/20_arXiv_grf.gif" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+                 <p><a href="http://arxiv.org/abs/2010.04595">
+                 <papertitle>GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering</papertitle></a>
+                 <br>A. Trevithick, <strong>B. Yang</strong> <br>
+                 <a href="http://arxiv.org/abs/2010.04595"> arXiv, 2020</a>
+                 <br>
+                 <a href="http://arxiv.org/abs/2010.04595">arXiv</a> /
+                 <a href="https://github.com/alextrevithick/GRF"><font color="red">Code</font></a>
+                 <iframe src="https://ghbtns.com/github-btn.html?user=alextrevithick&repo=GRF&type=star&count=true&size=small" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                 <p align="justify" style="font-size:13px">We introduce a simple implicit neural function to represent complex 3D scenes purely from 2D images.
+                 </p>
+                <p></p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/20_arXiv_pointloc.png" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	            <p><a href="https://arxiv.org/abs/2003.02392">
+	            <papertitle>PointLoc: Deep Pose Regressor for LiDAR Point Cloud Localization</papertitle></a>
+                <br>Wei Wang, Bing Wang, Peijun Zhao, Changhao Chen, Ronald Clark, <strong>B. Yang</strong>, Andrew Markham, Niki Trigoni
+                <br>
+                <a href="https://arxiv.org/abs/2003.02392">arXiv, 2020</a>
+                </p><p></p>
+			    <p align="justify" style="font-size:13px">We present a learning-based LiDAR relocalization framework to efficiently estimate 6-DoF poses from LiDAR point clouds. </p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/20_cvpr_randlanet.gif" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	            <p><a href="https://arxiv.org/abs/1911.11236">
+	            <papertitle>RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds</papertitle></a>
+                <br>Q. Hu, <strong>B. Yang*</strong>, L. Xie, S. Rosa, Y. Guo, Z. Wang, N. Trigoni, A. Markham
+                <br>
+                <em>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2020
+                <br>
+                <a href="https://arxiv.org/abs/1911.11236">arXiv</a> /
+                <a href="http://www.semantic3d.net/view_results.php">Semantic3D Benchmark</a> /
+                <font color="red"> News:</font>
+                <a href="https://mp.weixin.qq.com/s/k_oROm1Zr6l0YNKGELx3Bw"><font color="red">(新智元,</font></a>
+                <a href="https://mp.weixin.qq.com/s/Ed9v6I6l2tLTHmMW7B3O3g"><font color="red">AI科技评论,</font></a>
+                <a href="https://mp.weixin.qq.com/s/TTv6pSPjmdsEF4kvVY-ZzQ"><font color="red">CVer)</font>/</a>
+                <a href="https://www.youtube.com/watch?v=Ar3eY_lwzMk"><font color="red">Video</font></a>/
+                <a href="https://github.com/QingyongHu/RandLA-Net"><font color="red">Code</font></a>
+                <iframe src="https://ghbtns.com/github-btn.html?user=QingyongHu&repo=RandLA-Net&type=star&count=true&size=small"
+                 frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
+                <br>(* indicates corresponding author)
+                </p><p></p>
+			    <p align="justify" style="font-size:13px">We introduce an efficient and lightweight neural architecture to directly infer per-point semantics for large-scale point clouds. </p>
+            </td>
+        </tr>
+
+        <td width="20%"><img src="./imgs/19_neurips_3d_bonet.gif" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	             <p><a href="https://arxiv.org/abs/1906.01140">
+	             <papertitle>Learning Object Bounding Boxes for 3D Instance Segmentation on Point Clouds</papertitle></a>
+                 <br><strong>B. Yang</strong>, J. Wang, R. Clark, Q. Hu, S. Wang, A. Markham, N. Trigoni
+                 <br>
+                 <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2019 <font color="red"><strong>(Spotlight, 200/6743)</strong></font>
+                 <br>
+                 <!--<font color="red"><strong>..</strong></font><br>-->
+                 <a href="https://arxiv.org/abs/1906.01140">arXiv</a> /
+                 <a href="http://kaldir.vc.in.tum.de/scannet_benchmark/result_details?id=118">ScanNet Benchmark</a> /
+                 <a href="https://www.reddit.com/r/MachineLearning/comments/bx8jhz/r_new_sota_for_3d_object_detection/">Reddit Discussion</a> /
+                 <font color="red"> News:</font>
+                 <a href="https://mp.weixin.qq.com/s/jHbWf_SSZE_J6NRJR-96sQ"><font color="red">(新智元,</font></a>
+                 <a href="https://mp.weixin.qq.com/s/4GPkmTri4Vk7Xy0J8TiBNw"><font color="red">图像算法,</font></a>
+                 <a href="https://mp.weixin.qq.com/s/C1FDPkAkmnmAZ_gvvtzBHw"><font color="red">AI科技评论,</font></a>
+                 <a href="https://mp.weixin.qq.com/s/wViZITtsb4j3oFtOpJI9wQ"><font color="red">将门创投,</font></a>
+                 <a href="https://mp.weixin.qq.com/s/S7mHrOxOwTIhDGPhu1SI4A"><font color="red">CVer,</font></a>
+                 <a href="https://mp.weixin.qq.com/s/gybhVw3D4ykAHsVGzazWNw"><font color="red">泡泡机器人)</font>/</a>
+                 <a href="https://www.youtube.com/watch?v=Bk727Ec10Ao"><font color="red">Video</font></a>/
+                 <a href="https://github.com/Yang7879/3D-BoNet"><font color="red">Code</font></a>
+                 <iframe src="https://ghbtns.com/github-btn.html?user=Yang7879&repo=3D-BoNet&type=star&count=true&size=small"
+                 frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
+			     <p align="justify" style="font-size:13px">We propose a simple and efficient neural architecture for accurate 3D instance segmentation on point clouds.
+                  It achieves the SOTA performance on ScanNet and S3DIS (June 2019).</p>
+                <p></p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/19_iros_deeppco.jpg" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	            <p><a href="https://arxiv.org/abs/1910.11088">
+	            <papertitle>DeepPCO: End-to-End Point Cloud Odometry through Deep Parallel Neural Network</papertitle></a>
+                <br>W. Wang,  M.R.U. Saputra, P. Zhao, P. Gusmao, <strong>B. Yang</strong>, C. Chen, A. Markham, N. Trigoni<br>
+		        <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2019 <br>
+                <a href="https://arxiv.org/abs/1910.11088">arXiv</a>
+                </p><p></p>
+			    <p align="justify" style="font-size:13px">We propose a novel end-to-end deep parallel neural network to estimate the 6-DOF poses using consecutive 3D point clouds.</p>
+            </td>
+        </tr>
+
+
+	    <td width="20%"><img src="./imgs/19_ijcv_attsets.jpg" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+                <p><a href="https://link.springer.com/article/10.1007/s11263-019-01217-w">
+	            <papertitle>Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction</papertitle></a>
+                <br><strong>B. Yang</strong>, S. Wang, A. Markham, N. Trigoni<br>
+                <em>International Journal of Computer Vision (IJCV)</em>, 2019 <font color="red"><strong>(IF=6.07)</strong></font><br>
+		        <a href="https://arxiv.org/abs/1808.00758">arXiv</a>/
+		        <a href="https://link.springer.com/article/10.1007/s11263-019-01217-w">Springer Open Access</a>/
+                <a href="https://github.com/Yang7879/AttSets"><font color="red">Code</font></a>
+                <iframe src="https://ghbtns.com/github-btn.html?user=Yang7879&repo=AttSets&type=star&count=true&size=small"
+                frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                </p><p></p>
+                <p align="justify" style="font-size:13px"> We propose an attentive aggregation module together
+                    with a training algorithm for multi-view 3D object reconstruction.
+                    It outperforms all existing poolings and recurrent neural networks.</p>
+            </td>
+        </tr>
+
+
+	    <td width="20%"><img src="./imgs/19_cvprw_embeddings.jpg" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+                <p><a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Lin_Learning_Semantically_Meaningful_Embeddings_Using_Linear_Constraints_CVPRW_2019_paper.html">
+	            <papertitle>Learning Semantically Meaningful Embeddings Using Linear Constraints</papertitle></a>
+                <br>S. Lin, <strong>B. Yang</strong>, R. Birke, R. Clark<br>
+                <em>IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W)</em>, 2019<br>
+                <a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Lin_Learning_Semantically_Meaningful_Embeddings_Using_Linear_Constraints_CVPRW_2019_paper.html">CVF Open Access</a>
+                </p><p></p>
+			    <p align="justify" style="font-size:13px">We propose a simple embedding learning method that jointly optimises for an auto-encoding reconstruction task
+                    and for estimating the corresponding attribute labels.</p>
+            </td>
+        </tr>
+
+
+	    <td width="20%"><img src="./imgs/18_tpami_3d_recgan++.png" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	           <p><a href="https://arxiv.org/abs/1802.00411">
+	           <papertitle>Dense 3D Object Reconstruction from a Single Depth View</papertitle></a>
+               <br><strong>B. Yang</strong>, S. Rosa, A. Markham, N. Trigoni, H. Wen<br>
+               <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>, 2018 <font color="red"><strong>(IF=17.73)</strong></font><br>
+               <a href="https://arxiv.org/abs/1802.00411">arXiv</a>/
+               <a href="https://ieeexplore.ieee.org/abstract/document/8453803">IEEE Xplore</a>/
+               <a href="https://github.com/Yang7879/3D-RecGAN-extended"><font color="red">Code</font></a>
+               <iframe src="https://ghbtns.com/github-btn.html?user=Yang7879&repo=3D-RecGAN-extended&type=star&count=true&size=small"
+               frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+               </p><p></p>
+               <p align="justify" style="font-size:13px">We propose a novel neural architecture to reconstruct the complete 3D structure of a given object
+                   from a single arbitrary depth view using generative adversarial networks.</p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/18_ijcai_3d_physnet.gif" alt="this slowpoke moves" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	           <p><a href="https://arxiv.org/abs/1805.00328">
+	           <papertitle>3D-PhysNet: Learning the Intuitive Physics of Non-Rigid Object Deformations</papertitle></a>
+               <br>Z. Wang, S. Rosa, <strong>B. Yang</strong>, S. Wang, N. Trigoni, A. Markham<br>
+               <em>International Joint Conference on Artificial Intelligence (IJCAI)</em>, 2018 <br>
+               <a href="https://arxiv.org/abs/1805.00328">arXiv</a>/
+               <a href="https://github.com/vividda/3D-PhysNet"><font color="red">Code</font> </a>
+               <iframe src="https://ghbtns.com/github-btn.html?user=vividda&repo=3D-PhysNet&type=star&count=true&size=small"
+               frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+               </p><p></p>
+               <p align="justify" style="font-size:13px">We present a neural framework to predict how a 3D object will deform
+                   under an applied force using intuitive physics modelling.</p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/18_cvprw_3r_d.jpg" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	           <p><a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/w9/html/Yang_Learning_3D_Scene_CVPR_2018_paper.html">
+	           <papertitle>Learning 3D Scene Semantics and Structure from a Single Depth Image</papertitle></a>
+               <br><strong>B. Yang*</strong>, Z. Lai*, X. Lu, S. Lin, H. Wen, A. Markham, N. Trigoni<br>
+               <em>IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W)</em>, 2018 <br>
+               <a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/w9/html/Yang_Learning_3D_Scene_CVPR_2018_paper.html">CVF Open Access</a> /
+               <a href="https://ieeexplore.ieee.org/abstract/document/8575531">IEEE Xplore</a>
+               <br>(* indicates equal contribution)
+               </p><p></p>
+               <p align="justify" style="font-size:13px">We propose an efficient and holistic pipeline to simultaneously learn
+                   the semantics and structure of a scene from a single depth image.</p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/18_icra_defonet.jpg" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	           <p><a href="https://arxiv.org/abs/1804.05928">
+	           <papertitle>Defo-Net: Learning Body Deformation Using Generative Adversarial Networks</papertitle></a>
+               <br>Z. Wang, S. Rosa, L. Xie, <strong>B. Yang</strong>, S. Wang, N. Trigoni, A. Markham<br>
+               <em>IEEE International Conference on Robotics and Automation (ICRA) </em>, 2018 <br>
+               <a href="https://arxiv.org/abs/1804.05928">arXiv</a> /
+               <a href="https://www.youtube.com/watch?v=noG5DDX3coQ"><font color="red">Video</font></a>/
+               <a href="https://ieeexplore.ieee.org/abstract/document/8462832">IEEE Xplore</a>/
+               <a href="https://github.com/vividda/Defo-Net"><font color="red">Code</font> </a>
+               <iframe src="https://ghbtns.com/github-btn.html?user=vividda&repo=Defo-Net&type=star&count=true&size=small"
+               frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+               </p><p></p>
+               <p align="justify" style="font-size:13px">We present a novel generative adversarial network to predict
+                   body deformations under external forces from a single RGB-D image.</p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/17_iccvw_3d_recgan.jpg" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	           <p><a href="https://arxiv.org/abs/1708.07969">
+	           <papertitle>3D Object Reconstruction from a Single Depth View with Adversarial Learning</papertitle></a>
+               <br><strong>B. Yang</strong>, H. Wen, S. Wang, R. Clark, A. Markham, N. Trigoni<br>
+               <em>IEEE International Conference on Computer Vision Workshops (ICCV-W) </em>, 2017 <br>
+               <a href="https://arxiv.org/abs/1708.07969">arXiv</a> /
+               <a href="https://ieeexplore.ieee.org/abstract/document/8265295">IEEE Xplore</a>/
+               <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650730434&idx=4&sn=4a03526f020f30cc65b52976bb56f352&scene=0"><font color="red"> News: 机器之心</font>/</a>
+               <a href="https://github.com/Yang7879/3D-RecGAN"><font color="red">Code</font> </a>
+               <iframe src="https://ghbtns.com/github-btn.html?user=Yang7879&repo=3D-RecGAN&type=star&count=true&size=small"
+               frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+               </p><p></p>
+               <p align="justify" style="font-size:13px">We propose a novel approach to reconstruct the complete 3D structure of a given
+                   object from a single arbitrary depth view using generative adversarial networks.</p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/16_mswim_bcs.jpg" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	           <p><a href="https://dl.acm.org/citation.cfm?id=2989132">
+	           <papertitle>Updating Wireless Signal Map with Bayesian Compressive Sensing</papertitle></a>
+               <br><strong>B. Yang</strong>, S. He, S-H G. Chan<br>
+               <em>ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM) </em>, 2016 <br>
+               <a href="https://dl.acm.org/citation.cfm?id=2989132">ACM DL</a>
+               </p><p></p>
+               <p align="justify" style="font-size:13px">We propose Compressive Signal Reconstruction (CSR), a novel learning system
+                   employing Bayesian compressive sensing (BCS) for online signal map update.</p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/15_compind_3dscan.jpg" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	           <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0166361515000913">
+	           <papertitle>A mechanised 3D scanning method for item-level radio frequency identification of palletised products</papertitle></a>
+               <br>S.H. Choi, <strong>B. Yang</strong>, H.H. Cheung<br>
+               <em>Computers in Industry </em>, 2015  <font color="red"><strong>(IF=4.77)</strong></font> <br>
+               <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166361515000913">Elsevier ScienceDirect</a>
+               </p><p></p>
+               <p align="justify" style="font-size:13px">We propose a mechanised 3D scanning method for identification of
+                   tagged products in large numbers to facilitate supply chain management.</p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/15_compind_item_rfid.jpg" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	           <p><a href="https://www.sciencedirect.com/science/article/pii/S0166361515000482">
+	           <papertitle>Item-level RFID for Enhancement of Customer Shopping Experience in Apparel Retail</papertitle></a>
+               <br>S.H. Choi, Y.X. Yang, <strong>B. Yang</strong>, H.H. Cheung<br>
+               <em>Computers in Industry </em>, 2015  <font color="red"><strong>(IF=4.77)</strong></font> <br>
+               <a href="https://www.sciencedirect.com/science/article/pii/S0166361515000482">Elsevier ScienceDirect</a>
+               </p><p></p>
+               <p align="justify" style="font-size:13px">We propose an item-level RFID-enabled retail store management system
+                   for relatively high-end apparel products to provide customers with more leisure, interaction for product information.</p>
+            </td>
+        </tr>
+
+
+        <td width="20%"><img src="./imgs/15_compind_tag_proc.jpg" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+	           <p><a href="https://www.sciencedirect.com/science/article/pii/S0166361515000147">
+	           <papertitle>RFID Tag Data Processing in Manufacturing for Track-and-Trace Anti-counterfeiting</papertitle></a>
+               <br>S.H. Choi, <strong>B. Yang</strong>, H.H. Cheung, Y.X. Yang<br>
+               <em>Computers in Industry </em>, 2015  <font color="red"><strong>(IF=4.77)</strong></font> <br>
+               <a href="https://www.sciencedirect.com/science/article/pii/S0166361515000147">Elsevier ScienceDirect</a>
+               </p><p></p>
+               <p align="justify" style="font-size:13px">We present a track-and-trace anti-counterfeiting system,
+                   and propose a tag data processing and synchronization algorithm to generate initial e-pedigrees for products.</p>
+            </td>
+        </tr>
+
+        </tbody>
+    </table>
+
+
+    <!--Thesis  -->
+     <br>
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+        <tbody><tr>
+          <td><heading>DPhil (PhD) Thesis</heading>
+          </tr></tbody>
+    </table>
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+		<tbody><tr>
+        <td width="20%"><img src="./imgs/oxford_logo.png" alt="PontTuset" width="180" style="border-style: none"></td>
+            <td width="80%" valign="top">
+                 <p><a href="https://arxiv.org/abs/2010.09582">
+                 <papertitle>Learning to Reconstruct and Segment 3D Objects</papertitle></a>
+                 <br>
+                 <br><strong>B. Yang</strong><br>
+                 <a href="https://ora.ox.ac.uk/objects/uuid:5f9cd30d-0ee7-412d-ba49-44f5fd76bf282"> Oxford Research Archive (PDF), 2020; </a>
+                 <a href="https://mp.weixin.qq.com/s/-l0pkDt1rgfYbG2K4Vu5cg"><font color="red"> (News: 机器之心报道)</font></a>
+                 <br>
+                 <br><strong>Thesis committee</strong> (Transfer/Confirmation/Viva):<br>
+                 <a href="https://www.cs.ox.ac.uk/people/alessandro.abate/home.html">Alessandro Abate</a>,
+                 <a href="https://mpawankumar.info/">Pawan Kumar</a>, <a href="https://www.doc.ic.ac.uk/~ajd/">Andrew Davison</a>,
+                 <a href="https://scholar.google.co.uk/citations?user=UZ5wscMAAAAJ&hl=en">Andrew Zisserman</a>.<br>
+                 <p align="justify" style="font-size:13px">This thesis aims to understand scenes and the objects within them by learning general and
+                robust representations using deep neural networks, trained on large-scale real-world 3D data.
+                In particular, the thesis makes three core contributions from object-level 3D shape estimation
+                from single or multiple views to scene-level semantic understanding.
+                 </p>
+                <p></p>
+            </td>
+        </tr>
+
+        </tbody>
+    </table>
+
+    <!--SECTION 6 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+         <tbody><tr>
+            <td><heading>Talks & Academic Services</heading>
+             <p style="font-size:13px"> <strong>[2021.04]</strong> Invited talk about <a href="https://www.bilibili.com/video/BV1164y1v7zK?p=5">Beyond Supervised Learning for 3D Representations</a> at a CSIG workshop.</p>
+             <p style="font-size:13px"> <strong>[2021.04]</strong> We will organize a Challenge/Workshop about <a href="http://point-cloud-analysis.cs.ox.ac.uk/">Point Cloud Understanding</a> at <a href="http://iccv2021.thecvf.com/home">ICCV 2021</a>.</p>
+             <p style="font-size:13px"> <strong>[2020.11]</strong> We organize a tutorial about <a href="http://3dlearning.cn/">3D point cloud learning</a> at <a href="http://3dv2020.dgcv.nii.ac.jp/">3DV 2020</a>.</p>
+             <p style="font-size:13px"> <strong>[2020.10]</strong> Invited talk about 3D scene understanding at <a href="https://wonderlandai.com/team-member/bo-yang/">Wonderland AI Summit</a>. Check out the <a href="./imgs/wonderlandai.mp4">trailer</a>.</p>
+             <p style="font-size:13px"> <strong>[2020.09]</strong> Invited talk about 3D Point Cloud Segmentation at <a href="https://mfi2020.org/workshoptutorials/#wang">MFI 2020</a>.</p>
+             <p style="font-size:13px"> <strong>[2018 -]</strong> I regularly review papers for top-tier conferences and journals in machine learning and computer vision.</p>
+            </td>
+            </tr></tbody>
+    </table>
+
+
+    <!--SECTION 6 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+         <tbody><tr>
+            <td><heading>Teaching</heading>
+             <p> <strong>Spring Term, 2021</strong>: &ensp;&ensp; <a href="https://www.comp.polyu.edu.hk/en-us/study/taught-postgraduate-programmes/tpg-subject"> Machine Learning and Data Analytics </a> (The Hong Kong Polytechnic University). </p>
+             <p> <strong>Hilary Term, 2019</strong>: &ensp;&ensp; <a href="https://www.cs.ox.ac.uk/teaching/courses/2018-2019/KRR/"> Knowledge Representation & Reasoning </a> (University of Oxford). </p>
+             <p> <strong>Michaelmas Term, 2018 & 2017</strong>: &ensp;&ensp; <a href="https://www.cs.ox.ac.uk/teaching/courses/2018-2019/ml/index.html"> Machine Learning</a> (University of Oxford). </p>
+             <p> <strong>Spring Term, 2014</strong>: &ensp;&ensp; <a href="#"> C++ Programming</a> (The University of Hong Kong). </p>
+            </td>
+            </tr></tbody>
+    </table>
+
+
+    <!--SECTION 7 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+       <tbody><tr>
+          <td><heading>Mentoring</heading>
+              <p> <strong><a href="https://alextrevithick.github.io/">Alexander Trevithick</a></strong> (Oct 2019 - ): &ensp;&ensp; Exeter College at University of Oxford.</p>
+              <p> <strong><a href="https://www.cs.ox.ac.uk/people/qingyong.hu/">Qingyong Hu</a></strong> (Oct 2018 - ): &ensp;&ensp; Department of Computer Science at University of Oxford.</p>
+              <p> <strong><a href="https://scholar.google.com/citations?user=lj-xw5cAAAAJ&hl=en">Jianan Wang</a></strong> (May - Dec 2018): &ensp;&ensp; Now with <a href="https://deepmind.com/">Google DeepMind</a>. </p>
+              <p> <strong><a href="https://uk.linkedin.com/in/zlai">Zihang Lai</a></strong> (Oct 2017 - Mar 2018): &ensp;&ensp; Now PhD at <a href="https://www.ri.cmu.edu/ri-people/zihang-lai/">CMU</a>. </p>
+          </td>
+       </tr></tbody>
+    </table>
+
+
+    <!--SECTION 8 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+       <tbody><tr>
+          <td>
+          <heading>About Me</heading>
+           <p align="justify">In my free time, I like playing tennis on <a href="./imgs/tennis_lawn.jpg">lawns</a>,
+               <a href="./imgs/tennis_clay.jpg">clays</a>, and <a href="./imgs/tennis_hard.jpg">hard surfaces</a>.
+               I also like to fly drones for landscape photography. Here's a video over the historic Oxford
+               [<a href="https://www.youtube.com/watch?v=uIQpZl4kdP4&t=1s">Youtube</a>,
+               <a href="https://v.qq.com/x/page/c0339p9vnht.html">腾讯视频</a>], and another video for the scenic Lake District
+               [<a href="https://www.youtube.com/watch?v=v-hYnwAIkSE">Youtube</a>]. Remember to turn up the volume for the background music.
+		   <!--</br></br>-->
+		   <!--<span class="highlight"><strong>Internship Position: </strong> If you're interested in ...</span> -->
+		   </p>
+		   </td></tr>
+       </tbody>
+    </table>
+
+
+    <!--SECTION 9 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+    <tbody><tr>
+    <td width="100%" align="middle">
+    <p align="center" style="width: 25% ">
+    <script type="text/javascript" id="clstr_globe"  src="//cdn.clustrmaps.com/globe.js?d=1yPWWuOlXo22MrO9sRinBO9GUjLHe88Yk0lOK35nmQA"></script>
+    </p></td>
+    </tr>
+    </tbody>
+    </table>
+
+
+    <!--SECTION 10 -->
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+         <tbody><tr>
+            <td><br>
+               <!--<p align="right"><font size="3">Erd&ouml;s = ? </font><br> -->
+		       <p align="right"><font size="2"> Last update: 2021.04. <a href="http://www.cs.berkeley.edu/~barron/">Thanks.</a></font></p>
+            </td>
+         </tr>
+         </tbody>
+     </table>
+
+
+</td>
+</tr>
+</tbody>
 </table>
-# News
-
-A paper was accepted by CVPR 2021.
-
-A paper was accepted by VRIH.
-
-A paper was accepted by CVPR 2020 workshop.
-
-# EDUCATION
-<h2>Education</h2>
-
-<table class="imgtable"><tr><td>
-<img src="img/CAS.jpg" alt="alt text" width="75" height="75"/> &nbsp;</td>
-<td align="left">
-<p> <strong>University of Chinese Academy of Sciences (UCAS)</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; Sep. 2019 - Now <br />
-Master in EE, GPA: 3.71/4.0 <br />
-Advisor: <a href="http://vipl.ict.ac.cn/view_people.php?url=hhan&id=39">Prof. Hu Han</a> and <a href="http://people.ucas.edu.cn/~skevinzhou">S. Kevin Zhou</a><br />
-</p>
-</td></tr></table>
-<br />
-
-<table class="imgtable"><tr><td>
-<img src="img/SDJZ.png" alt="alt text" width="75" height="75"/> &nbsp;</td>
-<td align="left">
-<p> <strong>ShanDong JianZhu University </strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug. 2015 - Jun. 2019 <br />
-Bachelor in EE, GPA: 3.66/4.0 <br />
-</p>
-</td></tr></table>
-
-# PUBLICATIONS
-
-Hao Lu, Hu Han. Dual-GAN: Joint BVP and Noise modelling for Remote Physiological Measurement. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021.
-
-Hao Lu, Hu Han. NAS-HR: Neural architecture search for heart rate estima-tion from face videos. Virtual Reality & Intelligent Hardware, 2021, 3(1): 33-42 DOI:10.1016/j.vrih.2020.10.002
-
-XiaoBai Li, Hu Han, Hao Lu, et al. The 1st Challenge on Remote Physiological Signal Sensing (RePSS). Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020: 314-315.
-
-
+</body>
+</html>
